@@ -1,0 +1,31 @@
+.badge {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: tomato;
+  color: white;
+  font-weight: 600;
+  border-radius: 50%;
+}
+
+.middle {
+  left: 15px;
+  bottom: 15px;
+  width: 30px;
+  height: 30px;
+}
+.small {
+  left: 30px;
+  bottom: 20px;
+  width: 10px;
+  height: 10px;
+}
+.tiny {
+  left: 0px;
+  bottom: 20px;
+  width: 5px;
+  height: 5px;
+}
+.span__cog {
+  position: relative;
+}
